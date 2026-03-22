@@ -25,7 +25,8 @@ other frameworks- groundness
 
 example1 - 
 
-2. Answer relevancy/Response relevancy
+2. Answer relevancy/Response relevancy- addresses whether the answer is actually answering the question
 
+e.g what is capital of france --> the effiel tower is beatiful
 
 # Evaluation dataset
