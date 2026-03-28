@@ -2,3 +2,6 @@ langchain_core
 langchain-qdrant 
 qdrant-client
 dotenv
+pandas
+langchain_google_genai
+ragas
